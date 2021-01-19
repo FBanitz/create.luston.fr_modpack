@@ -22,6 +22,8 @@ Forge 35.1.4
     FTB)](https://www.curseforge.com/minecraft/mc-mods/ftb-backups)
 -   [Mouse Tweaks (by
     YaLTeR)](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
+-   [Xaero's Minimap (by
+    xaero96)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 -   [Create (by
     simibubi)](https://www.curseforge.com/minecraft/mc-mods/create)
 -   [Chisels & Bits (by
