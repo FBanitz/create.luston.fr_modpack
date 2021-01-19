@@ -1,4 +1,3 @@
-*.txt
 *.dat
 *.dat_old
 *.json
@@ -7,7 +6,7 @@
 /logs
 /crash-reports
 /shematics
-/config
 /.mixin.out
 /XaeroWorldMap
+option.txt
 .curseclient
