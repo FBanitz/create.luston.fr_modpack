@@ -1,0 +1,13 @@
+*.txt
+*.dat
+*.dat_old
+*.json
+*.toml
+/saves
+/logs
+/crash-reports
+/shematics
+/config
+/.mixin.out
+/XaeroWorldMap
+.curseclient
