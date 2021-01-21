@@ -5,8 +5,9 @@
 /saves
 /logs
 /crash-reports
+/screenshots
 /shematics
 /.mixin.out
 /XaeroWorldMap
-option.txt
+options.txt
 .curseclient
